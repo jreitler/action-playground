@@ -32,7 +32,6 @@ jobs:
         run: |
           echo "GITHUB_CONTEXT is $GITHUB_CONTEXT"
           echo "VARS_CONTEXT is $VARS_CONTEXT"
-          #echo "delete event is  ${{ GITHUB_CONTEXT.event }} "
 
     
     
